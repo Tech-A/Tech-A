@@ -1,4 +1,4 @@
-# Hi there, I'm Abbey 💛
+# Hi, I'm Abbey 💛
 
 👩‍💻 I'm a passionate **Software Engineering student** at the University of Auckland  
 who loves coding, building projects, and learning new tech! 
