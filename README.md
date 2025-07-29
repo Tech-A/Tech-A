@@ -3,7 +3,6 @@
 👩‍💻 I'm a passionate **Software Engineering student** at the University of Auckland  
 who loves coding, building projects, and learning new tech! 
 
----
 
 ## About Me
 
@@ -13,7 +12,7 @@ who loves coding, building projects, and learning new tech!
 - Ask me about coding, hackathons, or tech in general!  
 - How to reach me: abbeypmz@gmail.com or visit my website: [abbeymartinez.com](https://abbeymartinez.com/)
 
----
+
 
 ## Skills & Technologies
 
@@ -23,7 +22,7 @@ who loves coding, building projects, and learning new tech!
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+
 ## Projects
 
 Here are a few of my favourite projects:
@@ -34,7 +33,7 @@ Here are a few of my favourite projects:
 
 ...and a few hackathon projects including a pokemon themed study dashboard, an app that forces you to run a certain number of steps before unlocking your apps and an interactive story game.
 
----
+
 
 ## Connect with Me
 
