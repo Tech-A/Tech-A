@@ -11,7 +11,7 @@ who loves coding, building projects, and learning new tech!
 - Currently exploring **React**, **Typescript**, and **Java**  
 - Always learning and improving my skills  
 - Ask me about coding, hackathons, or tech in general!  
-- How to reach me: abbeypmz@gmail.com
+- How to reach me: abbeypmz@gmail.com or visit my website: abbeymartinez.com
 
 ---
 
