@@ -6,7 +6,7 @@ who loves coding, building projects, and learning new tech!
 
 ## About Me
 
-- 2nd Year Software Engineering student  
+- 3rd Year Software Engineering student  
 - Currently exploring **React**, **Typescript**, and **Java**  
 - Always learning and improving my skills  
 - Ask me about coding, hackathons, or tech in general!  
